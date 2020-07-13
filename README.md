@@ -7,4 +7,4 @@ I'm a JavaScript Engineer from the United Kingdom 🇬🇧I'm currently working 
 If I'm not coding, I'm practising skateboarding 🛹, reading 📖 or playing games 🕹.
 <br />
 
-[![Esslams's GitHub Stats](https://github-readme-stats.vercel.app/api?username=essb0t&show_icons=true&title_color=000&icon_color=00bcd4&text_color=000&bg_color=fff)](https://github.com/essb0t/github-readme-stats)
+[![Esslams's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esslamben&show_icons=true&title_color=000&icon_color=00bcd4&text_color=000&bg_color=fff)](https://github.com/esslamben/github-readme-stats)
