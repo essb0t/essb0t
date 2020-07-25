@@ -1,7 +1,5 @@
 ### Hi there, I'm Esslam 👋
 
-I'm a passionate self-taught, fullstack developer from the United Kingdom.
-
 I'm a JavaScript Engineer from the United Kingdom 🇬🇧I'm currently working with react at Arctic Shores. Before that I worked on the Cloud Platform at Music Tribe.
 
 If I'm not coding, I'm practising skateboarding 🛹, reading 📖 or playing games 🕹.
